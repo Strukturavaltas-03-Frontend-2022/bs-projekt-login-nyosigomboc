@@ -1,0 +1,17 @@
+body, .bg-light {
+    background-color: #f6f6f6;
+}
+
+.icon {
+    display: inline-block;
+    color: #fffff9;
+    background-color: #563f7b;
+    border-radius: .8rem;
+    font-size: 3rem;
+    font-weight: 800;
+    padding: .2rem 1rem;
+    text-align: center;
+    vertical-align: center;
+    align-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
